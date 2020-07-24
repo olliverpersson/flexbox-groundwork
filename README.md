@@ -34,6 +34,6 @@ For elements that should fill a third of the window on larger screens, and the e
 
 For elements that should fill a fourth of the window on larger screens, and the entire screen on smaller devices.
 
-## .fifth
+### .fifth
 
 For elements that should fill a fifth of the window on larger screens and the entire screen on smaller devices.
